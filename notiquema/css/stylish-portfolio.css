@@ -242,3 +242,8 @@ footer {
 	opacity:1 !important;
     cursor:pointer;
 }
+
+.bg-primary {
+    color: #fff;
+    background-color: #AD072D !important;
+}
